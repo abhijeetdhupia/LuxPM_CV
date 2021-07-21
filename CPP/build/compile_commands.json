@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/abhijeetdhupia/Documents/Coding/LuxPM/CPP/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /usr/local/Cellar/opencv/4.5.3/include/opencv4 -isystem /usr/local/Cellar/libtorch/include -isystem /usr/local/Cellar/libtorch/include/torch/csrc/api/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++14 -o CMakeFiles/LuxPM.dir/assignment.cpp.o -c /Users/abhijeetdhupia/Documents/Coding/LuxPM/CPP/assignment.cpp",
+  "file": "/Users/abhijeetdhupia/Documents/Coding/LuxPM/CPP/assignment.cpp"
+}
+]
